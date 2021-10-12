@@ -4,7 +4,7 @@ footer_text: Copyright 2021 Beatrice Venckute
 header_feature_image: ../uploads/untitled-design-copy-2.png
 header_text: Hungry Types
 header_text_color: "#000000"
-bannerheight: 50vmax
+bannerheight: 10vmax
 navbarheight: 55px
 logo: ../uploads/hungry-types.png
 favicon: ../uploads/hungry-types.png
