@@ -9,7 +9,7 @@ layout: page
 published: true
 tags: null
 description: null
-show: true
+show: false
 ---
 You love to eat? I love to talk about the typography of the places you eat in. We already have something in common, don't we? :)\
 \
