@@ -1,7 +1,7 @@
 ---
 title: About this page
 image: ../uploads/about-the-page-copy-2.png
-permalink: /about/
+permalink: /about-this-page/
 date: 2021-10-10T17:13:30.521Z
 show: true
 layout: page
