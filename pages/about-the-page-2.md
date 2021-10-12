@@ -1,8 +1,8 @@
 ---
 title: About the page
 permalink: /about-the-page/
-date: 2021-10-12T17:47:28.535Z
-show: false
+date: 2021-10-12T17:49:33.504Z
+show: true
 layout: page
 ---
 You love to eat? I love to talk about the typography of the places you eat in. We already have something in common, don't we? :) \
