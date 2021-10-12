@@ -1,5 +1,5 @@
 ---
-title: About the page
+title: About this page
 image: ../uploads/about-the-page-copy-2.png
 permalink: /about/
 date: 2021-10-10T17:13:30.521Z
