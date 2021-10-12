@@ -1,5 +1,6 @@
 ---
 title: About the page
+image: ../uploads/untitled-design-copy-2.png
 permalink: /about-the-page/
 date: 2021-10-12T17:49:33.504Z
 show: true
