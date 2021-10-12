@@ -9,9 +9,9 @@ layout: page
 published: true
 tags: null
 description: null
-show: true
+show: false
 ---
-You love to eat? I love to talk about the typography of the places you eat in. We already have something in common, don't we? :) \
+You love to eat? I love to talk about the typography of the places you eat in. We already have something in common, don't we? :)\
 \
 I created this blog to explore the way texts look in different spots you eat in. Cafés, buffets, fast food places, or fancy restaurants – they all have their own unique style of presenting themselves. Various fonts, colours, and even sizes can portray the atmosphere of the place you're planning to go to. And you don't even have to come inside to find it out!\
 \
