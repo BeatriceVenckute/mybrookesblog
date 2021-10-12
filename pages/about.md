@@ -1,9 +1,10 @@
 ---
 header_feature_image: /uploads/log.jpg
-title: About
-subtitle: All about me and my life
+title: ABOUT THE PAGE
+image: ../uploads/about-the-page.png
+subtitle: ""
 permalink: /about/
-date: 2020-06-29T15:36:12.231Z
+date: 2021-10-10T15:42:28.277Z
 layout: page
 published: true
 tags: null
