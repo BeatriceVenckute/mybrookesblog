@@ -16,15 +16,19 @@ Want to learn this superpower? Follow the blog. *Let's dive into the pool of typ
 
 I attempt was to make my blog bright, playful and simple. So, I decided to create my **logo** image from:
 
-* **TITLE**. The name of the blog is "Hungry Types", and it gives the sense of curiosity of what kind of blog it is. So, I wanted to include it into the logo. As my wish was to keep everything fresh, simplistic, and exciting, for that, I chose easy-to-read black Anton font text.
-* **YELLOW SPACE**. As my logo is the square, to fill it I chose yellow. Not only yellow perfectly represents the cheerfulness of the blog, but also it associates with the topic I am writing – food.
-* **RED & SMALLER WHITE CIRCLES**. I chose circles as they could be easily associated with pizzas – one of the main representations of food, so, with the theme of the blog too. Red gives the logo some energy and attractiveness (and also associates with food! Don't you feel hungry yet?), and white neatly contrasts with all other colours and keeps it simple.
+### TITLE
 
+The name of the blog is "Hungry Types", and it gives the sense of curiosity of what kind of blog it is. So, I wanted to include it into the logo. As my wish was to keep everything fresh, simplistic, and exciting, for that, I chose easy-to-read black Anton font text.
 
+### **YELLOW SPACE**
+
+As my logo is the square, to fill it I chose yellow. Not only yellow perfectly represents the cheerfulness of the blog, but also it associates with the topic I am writing – food.
+
+### **RED & SMALLER WHITE CIRCLES**
+
+I chose circles as they could be easily associated with pizzas – one of the main representations of food, so, with the theme of the blog too. Red gives the logo some energy and attractiveness (and also associates with food! Don't you feel hungry yet?), and white neatly contrasts with all other colours and keeps it simple.
 
 ![Hungry Types Logo](../uploads/hungry-types.png "This is how my logo looks like.")
-
-
 
 ## **My banner image**
 
