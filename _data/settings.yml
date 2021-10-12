@@ -6,8 +6,8 @@ header_text: Hungry Types
 header_text_color: "#ffffff"
 bannerheight: 20vmax
 navbarheight: 55px
-logo: ../uploads/2020-12-12-19_49_50.781-0200_mh1-modified.png
-favicon: ../uploads/2020-12-12-19_49_50.781-0200_mh1-modified.png
+logo: ../uploads/hungry-types.png
+favicon: ../uploads/hungry-types.png
 gridlayout: false
 fixednavbar: false
 upzoom: true
