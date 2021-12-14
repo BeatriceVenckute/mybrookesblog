@@ -39,9 +39,12 @@ The typography Starbucks has chosen creates a cozy, pleasant and warm impression
 
 To conclude, even if the title of the brand isn’t necessary in the logo anymore, typography is still a useful tool to create brand identity and maintain its image.
 
-**Sources:**\
-\
-https://www.starbucks.co.uk/about-us\
-https://creative.starbucks.com/typography/ \
-https://www.theverge.com/2020/10/30/21540908/starbucks-app-q4-earnings-mobile-payments\
+**Sources:**
+
+https://www.starbucks.co.uk/about-us
+
+https://creative.starbucks.com/typography/ 
+
+https://www.theverge.com/2020/10/30/21540908/starbucks-app-q4-earnings-mobile-payments
+
 https://www.fastcompany.com/90394468/starbucks-just-publicly-deconstructed-its-brand-heres-why
